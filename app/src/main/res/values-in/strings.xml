@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film SQL</string>
+    <string name="bahasa">Ganti Bahasa</string>
+    <string name="rating">Peringkat</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="movie_image">Gambar Film</string>
+    <string name="added">Ditambahkan ke Favorit</string>
+    <string name="removed">Dihapus dari Favorit</string>
+    <string name="orientation">Orientasi Berubah</string>
+    <string name="movie">Film</string>
+    <string name="tv">Tayangan Tv</string>
+    <string name="moviefav">Film Favorit</string>
+    <string name="tvfav">Tv Favorit</string>
+    <string name="appwidget_text">BANNER FILM</string>
+    <string name="empty_text">TIDAK ADA DATA</string>
+    <string name="search">Cari</string>
+</resources>

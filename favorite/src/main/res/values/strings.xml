@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Favorite</string>
+    <string name="bahasa">Change Language</string>
+    <string name="rating">Rating</string>
+    <string name="release">Release Date</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="added">Added to Favorite</string>
+    <string name="removed">Removed from Favorite</string>
+    <string name="orientation">Change Orientation</string>
+    <string name="title_preview" translatable="false">Angel Has Fallen</string>
+    <string name="synopsis_preview" translatable="false">Pasca percobaan pembunuhan Presiden AS. Agen rahasia Mike Banning (Gerard Butler)
+        kini menjadi tersangka utama. Tidak terima, Mike kabur dan berusaha mengungkap pihak yang telah menjebaknya.</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="movie">Movie</string>
+    <string name="tv">Tv Show</string>
+    <string name="moviefav">Favorite Movie</string>
+    <string name="tvfav">Favorite Tv</string>
+    <string name="appwidget_text">MOVIE BANNER</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="search">Search</string>
+</resources>
